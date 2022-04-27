@@ -15,6 +15,6 @@ int main()
     cout << " carrots.";
     cout << endl;
     carrots = carrots - 1;      //modify the variable;
-    cout << "Crunch, crunch. Now I have " << carrots << " carrots." << endl;
+//    cout << "Crunch, crunch. Now I have " << carrots << " carrots." << endl;
     return 0;
 }
