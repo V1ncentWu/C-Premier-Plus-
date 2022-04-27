@@ -12,7 +12,6 @@ int main()
     cout << endl;                                       //start a new line
     cout << "You won't regret it!" << endl;             //more output
 
-    cin.get();                                          //keep the window open until the next input
     
     return 0;                                           //terminate main()
 }
