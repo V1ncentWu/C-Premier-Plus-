@@ -12,7 +12,7 @@ int main()
     cout << endl;                                       //start a new line
     cout << "You won't regret it!" << endl;             //more output
 
-    //cin.get();                                          //keep the window open
+    cin.get();                                          //keep the window open
     
     return 0;                                           //terminate main()
 }
